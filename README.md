@@ -1,2 +1,2 @@
-# SSC_Case_Study
+# SSC Case Study
 Statistical Society of Canada Case Study Competition
